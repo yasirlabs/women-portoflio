@@ -1,3 +1,3 @@
-# Akademik Portfolio
+# Women Portfolio
 ## Demo 
-https://academic-portoflio.netlify.app/
+https://women-portfolio.netlify.app/
