@@ -84,7 +84,7 @@
     {
       "type": 2,
       "heading": "İlk Kayıt ve Giriş İşlemleri",
-      "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767885704/nobadwords-kayit-giris_qketwk.mp4",
+      "videoUrl": ".mp4",
       "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767872906/nobadwords-kayit-giris_ytakzu.png",
       "caption": "NoBadWords’ün içerik analizinden kontrol paneli gezinimine ve API entegrasyonuna uzanan tüm işleyişini gösteren kapsamlı bir tanıtım videosu"
     },
@@ -96,7 +96,7 @@
     {
       "type": 2,
       "heading": "Arayüzün Felsefesini Gösteren Video",
-      "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767888749/nobadwords-arayuz_balmmh.mp4",
+      "videoUrl": "",
       "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767872906/nobadwords-arayuz-poster_pq4e5h.png",
       "caption": "NoBadWords’ün içerik analizinden kontrol paneli gezinimine ve API entegrasyonuna uzanan tüm işleyişini gösteren kapsamlı bir tanıtım videosu"
     },
@@ -231,7 +231,7 @@
     {
       "type": 2,
       "heading": "Geri Bildirim Kısıtlaması Video Demonstrasyonu",
-      "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767885702/geri-bildirim-engellemesi_ec8vy8.mp4",
+      "videoUrl": ".mp4",
       "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767872905/geri-bildirim-engellemesi-poster_okh766.png",
       "caption": "Bu videoda, kullanıcı giriş yapmadan NoBadWords üzerinde bir metin analizi gerçekleştirecek ve ardından analiz sonucuna geri bildirim göndermeye çalışacağız. Sistem, giriş yapmamış kullanıcıların geri bildirim göndermesine izin vermez. Giriş yaptıktan sonra aynı işlem için maksimum 5 deneme hakkı tanır; 6. denemede işlem engellenir. Video, geri bildirim sınırlarını ve sistemin tepki mekanizmasını görsel olarak göstermektedir."
     },

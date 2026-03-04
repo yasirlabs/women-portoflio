@@ -84,7 +84,7 @@
     {
       "type": 2,
       "heading": "Initial Registration and Login",
-      "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767878357/nobadwords-register-login_mwkiev.mp4",
+      "videoUrl": "login_mwkiev.mp4",
       "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767872949/nobadwords-register-login-poster_xfujst.png",
       "caption": "A comprehensive demo video showing NoBadWords’ full workflow from content analysis to dashboard navigation and API integration"
     },
@@ -96,7 +96,7 @@
     {
       "type": 2,
       "heading": "Video Showcasing the Interface Design Philosophy",
-      "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767878346/nobadwords-interface_lt2af6.mp4",
+      "videoUrl": "mp4",
       "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767872926/nobadwords-interface-poster_s4ocqn.png",
       "caption": "A comprehensive demo video showing NoBadWords’ full workflow from content analysis to dashboard navigation and API integration"
     },
@@ -194,7 +194,7 @@
     {
       "type": 2,
       "heading": "Feedback Restriction Video Demonstration",
-      "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767878338/feedback-restriction_j8fyy6.mp4",
+      "videoUrl": "mp4",
       "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767872921/feedback-restriction-poster_roxcb5.png",
       "caption": "In this video, a user will attempt text analysis on NoBadWords without logging in and then try to submit feedback. The system blocks feedback from non-logged-in users. Logged-in users have a maximum of 5 attempts per day; the 6th attempt is blocked. The video visually demonstrates feedback limits and system response mechanisms."
     },

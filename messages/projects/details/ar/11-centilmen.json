@@ -68,7 +68,7 @@
         {
             "type": 2,
             "heading": "Admin ve Müşteri Panelleri",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767895263/ozet_ds3yse.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873008/ozet-poster_phbxaz.png",
             "caption": "Hem müşteri paneli hem de kuaför paneli hızlı bir şekilde gösteren video"
         },
@@ -87,7 +87,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877724/header_mjxofv.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873019/header-poster_ab3clu.png",
             "caption": "Header Bölümü"
         },
@@ -100,7 +100,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877723/footer_v3azmt.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873017/footer-poster_pgpwll.png",
             "caption": "Footer Bölümü"
         },
@@ -113,7 +113,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877723/floating_buttons_eqgrjw.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873016/floating-buttons-poster_tb8ec4.png",
             "caption": "Floating Butonlar"
         },
@@ -126,7 +126,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767878348/anasayfa_hero_ubbn02.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873026/ana_sayfa_i4xokl.png",
             "caption": "Ana Sayfası - Hero Kısmı"
         },
@@ -139,7 +139,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877736/anasayfa_tanitim_xaghko.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873025/anasayfa-tanitim-poster_f1zomw.png",
             "caption": "Ana Sayfa - Tanıtım Bölümü"
         },
@@ -152,7 +152,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877732/anasayfa_nedenler_yaubgx.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873024/anasayfa-nedenler-poster_rg0idv.png",
             "caption": "Ana Sayfa - Müşterilerimizin Tercih Sebepleri Bölümü"
         },
@@ -177,7 +177,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877729/anasayfa_tras_makinesi_akbohw.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873022/anasayfa-tras-makinesi-poster_xj26lr.png",
             "caption": "Ana Sayfa - Traş Makinesi Bölümü"
         },
@@ -190,7 +190,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877729/anasayfa_one_cikan_modeller_cp6uzl.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873021/anasayfa-one-cikan-modeller-poster_yzyceu.png",
             "caption": "Ana Sayfa - Öne Çıkan Modeller Bölümü"
         },
@@ -203,7 +203,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877727/anasayfa_once_sonra_hkbi2v.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873021/anasayfa-once-sonra-poster_baep7n.png",
             "caption": "Ana Sayfa - Önce Sonra Bölümü"
         },
@@ -216,7 +216,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877727/anasayfa_ozgurluk_iguuzn.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873020/anasayfa-ozgurluk-poster_kyrdmq.png",
             "caption": "Ana Sayfa - Özgürlük Bölümü"
         },
@@ -229,7 +229,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877726/anasayfa_cizim_gercek_lyhedf.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873020/anasayfa-cizim-gercek-poster_pa5rh7.png",
             "caption": "Ana Sayfa - Profesyonel Dokunuş Bölümü"
         },
@@ -242,7 +242,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877717/anasayfa_ekibimiz_yqkonw.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873015/anasayfa-ekibimiz-poster_tzwkqf.png",
             "caption": "Ana Sayfa - Ekibimizle Tanışın Bölümü"
         },
@@ -255,7 +255,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877726/anasayfa_sss_qgrxur.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873020/anasayfa-sss-poster_sry06d.png",
             "caption": "Ana Sayfa - Sıkça Sorulan Sorular Bölümü - İletişim Sayfası"
         },
@@ -268,7 +268,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877727/kayit_giris_sureci_wg8tss.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873016/kayit-giris-sureci-poster_xrxjks.png",
             "caption": "Kayıt, Aktivasyon ve Giriş Süreci"
         },
@@ -281,7 +281,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877717/randevu_icin_giris_yap_pxovdg.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873015/randevu-icin-giris-yap-poster_g7ecjv.png",
             "caption": "Randevu almak için giriş yapılması gerektiğini bildiren ekran"
         },
@@ -294,7 +294,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877718/randevu_alma_sureci_p37bat.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873015/randevu-alma-sureci-poster_aviqmh.png",
             "caption": "Randevu Alma Süreci"
         },
@@ -307,7 +307,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767878325/favori_kuafor_ifinbc.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873011/favori-kuafor-poster_g2ww90.png",
             "caption": "Favori Kuaför Önerisi"
         },
@@ -320,7 +320,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877718/kuafor_giris_profil_fpb0qh.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873014/kuafor-giris-profil-poster_wjcwi0.png",
             "caption": "Kuaför Paneli"
         },
@@ -333,7 +333,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877710/kuafor_istisna_umjj0n.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873010/kuafor-istisna-poster_oplfsq.png",
             "caption": "Kuaför İstisna Günleri Belirleme"
         },
@@ -346,7 +346,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877717/yetkilendirme_sistemi_mmokvd.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873014/yetkilendirme-sistemi-poster_zuhnrl.png",
             "caption": "Yetkilendirme sistemi"
         },
@@ -359,7 +359,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877720/biygorafi_sjy1ut.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873013/biygorafi-poster_xd4qc7.png",
             "caption": "Kuaför Biyografisi ve Çalışma Takvimi Yönetimi"
         },
@@ -372,7 +372,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877708/wp_bildirim_ijo96g.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873010/wp-bildirim-poster_sbb1vw.png",
             "caption": "WhatsApp Üzerinden Randevu Bildirimi"
         },
@@ -385,7 +385,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877711/calisan_yonetimi_zmnmce.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873010/calisan-yonetimi-poster_z1ryfy.png",
             "caption": "Çalışan Yönetimi"
         },
@@ -398,7 +398,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877708/randevu_guvenligi_baoblp.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873009/randevu-guvenligi-poster_f21dk9.png",
             "caption": "Çalışan Yönetimi"
         },
@@ -411,7 +411,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877706/son_randevu_ekrani_ivzh6t.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873009/son-randevu-ekrani-poster_w7iqyj.png",
             "caption": "Son Randevu Ekranı"
         },
@@ -424,7 +424,7 @@
         {
             "type": 2,
             "heading": "",
-            "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767877710/son_randevunuzu_degerlendirin_qdj3wn.mp4",
+            "videoUrl": "",
             "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767873009/son-randevunuzu-degerlendirin-poster_gkdffe.png",
             "caption": "Randevu Değerlendirme ve Yorum Süreci"
         }

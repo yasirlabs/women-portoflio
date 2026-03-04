@@ -84,7 +84,7 @@
     {
       "type": 2,
       "heading": "التسجيل وتسجيل الدخول الأولي",
-      "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767878330/nobadwords-register-login_utfy9q.mp4",
+      "videoUrl": ".mp4",
       "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767872914/nobadwords-register-login-poster_adzavh.png",
       "caption": "فيديو تجريبي شامل يعرض سير العمل الكامل لـ NoBadWords من تحليل المحتوى إلى لوحة التحكم وتكامل API"
     },
@@ -96,7 +96,7 @@
     {
       "type": 2,
       "heading": "فيديو يوضح فلسفة تصميم الواجهة",
-      "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767878353/nobadwords-interface_edfruc.mp4",
+      "videoUrl": "",
       "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767872914/nobadwords-interface-poster_wqmkxt.png",
       "caption": "فيديو تجريبي شامل يعرض سير العمل الكامل لـ NoBadWords من تحليل المحتوى إلى لوحة التحكم وتكامل API"
     },
@@ -247,7 +247,7 @@
     {
       "type": 2,
       "heading": "عرض فيديو: تقييد إرسال الملاحظات",
-      "videoUrl": "https://res.cloudinary.com/dvx6nsrd9/video/upload/v1767878326/feedback-restriction_dbkfe5.mp4",
+      "videoUrl": "",
       "posterUrl": "https://res.cloudinary.com/dvx6nsrd9/image/upload/v1767872913/feedback-restriction-poster_qwdtzl.png",
       "caption": "في هذا الفيديو، سيحاول المستخدم إجراء تحليل نص دون تسجيل دخول ثم محاولة إرسال ملاحظة. النظام سيمنع إرسال الملاحظات من المستخدمين غير المسجلين. المستخدمون المسجلون لديهم 5 محاولات يوميًا؛ المحاولة السادسة يتم حظرها. الفيديو يوضح بصريًا حدود الملاحظات وآلية استجابة النظام."
     },
