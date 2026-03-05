@@ -36,7 +36,6 @@
     "wrangler": "^4.70.0"
   },
   "overrides": {
-    "picomatch": "2.3.1",
-    "@swc/helpers": "0.5.19"
+    "next": "15.5.9"
   }
 }
