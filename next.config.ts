@@ -8,14 +8,29 @@ const nextConfig: NextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
+  
+  // Cloudflare Workers için gerekli ayarlar
+  output: 'standalone', // Standalone çıktı için
+  
   images: {
+    unoptimized: true, // Cloudflare'da image optimization için
     remotePatterns: [
       {
-        protocol: 'https' as const,
-        hostname: 'yasiralrawi.com',
+        protocol: 'https',
+        hostname: '**', // Tüm hostnamelere izin ver
         pathname: '/**',
       },
+      {
+        protocol: 'http',
+        hostname: '**',
+        pathname: '/**',
+      }
     ],
+  },
+  
+  // Deneysel özellikler (gerekirse)
+  experimental: {
+    optimizeCss: false, // CSS optimizasyonu kapalı
   },
 };
 
